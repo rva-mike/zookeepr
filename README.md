@@ -14,6 +14,8 @@ Express.js is a minimal and flexible Node.js web application framework that prov
 Insomnia is a powerful REST API client that allows us to test APIs and make client-side server requests without having to use a browser. (https://insomnia.rest/
 )
 
+Heroku is a cloud application platform that enables developers to build, run, and operate applications entirely in the cloud. Unlike GitHub pages, which only allows you to deploy static sites with HTML pages, Heroku allows you to deploy a server.js file that will run the Node.js process. You’ll also use the Heroku CLI Links to an external site., which will help you deploy apps easily without leaving the command line. (https://heroku.com/)
+
   ## Table of Contents
   * [Description](#description)
   * [Link](#link)
